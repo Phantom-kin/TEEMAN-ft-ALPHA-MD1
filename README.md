@@ -127,4 +127,3 @@ Enjoy the diverse features of the *ALPHA-MD*  to enhance your Whatsapp more enjo
 - [ibrahim Adams](https://github.com/ibrahimaitech)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
