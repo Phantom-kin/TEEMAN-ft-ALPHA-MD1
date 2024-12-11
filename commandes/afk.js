@@ -1,8 +1,8 @@
-const {zokou} = require("../framework/zokou") ;
+const {katakuri} = require("../framework/katakuri") ;
 const afkfunc = require("../bdd/afk") ;
 
 
-zokou({
+katakuri({
     nomCom : 'afk',
     categorie : 'Mods',
   } , async (dest,zk,commandeOptions) => {
