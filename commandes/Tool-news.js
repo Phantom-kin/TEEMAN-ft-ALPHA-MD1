@@ -1,4 +1,4 @@
-const { zokou } = require('../framework/zokou');
+const { katakuri } = require('../framework/katakuri');
 const traduire = require("../framework/traduction") ;
 const { default: axios } = require('axios');
 //const conf = require('../set');
@@ -10,7 +10,7 @@ const { default: axios } = require('axios');
   
     try {
       if (!arg || arg.length === 0) {
-        return repondre(`Please ask a question Keith will answer it.`);
+        return repondre(`Please ask katakuri a question .`);
       }
   
       // Regrouper les arguments en une seule chaîne séparée par "-"
